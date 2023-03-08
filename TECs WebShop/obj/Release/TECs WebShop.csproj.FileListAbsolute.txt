@@ -1,0 +1,24 @@
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\TECs WebShop.exe
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\TECs WebShop.exe.config
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\TECs WebShop.pdb
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\Dapper.dll
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.AccessControl.dll
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.Permissions.dll
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\Dapper.xml
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.AccessControl.xml
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.Permissions.xml
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.csproj.AssemblyReference.cache
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs_WebShop.IndkøbskurvForm.resources
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs_WebShop.KundeForm.resources
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs_WebShop.MenuForm.resources
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs_WebShop.Properties.Resources.resources
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.csproj.GenerateResource.cache
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.csproj.CoreCompileInputs.cache
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.csproj.CopyComplete
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.exe
+C:\Users\LeifS\Desktop\MinWebShop\TECs WebShop\obj\Release\TECs WebShop.pdb
